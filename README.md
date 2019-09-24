@@ -20,6 +20,5 @@ For this project, I was interested in learning by coding simple Python libraries
 Describe.py - Python file to begin exploration of data.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-
-Please feel free to use the code here as you would like! 
+No specific Licensing needed please feel free to use the code here as you would like! 
 
