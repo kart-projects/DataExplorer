@@ -13,7 +13,7 @@ The python files in this repo should run with Anaconda distribution of Python ve
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in learning by coding simple Python libraries to explore data from different sources.
+In this project, I wanted to explore different ways to read data from various sources like text, Excel csv, Databases like SQL, MySQL, Amazon S3 and others. We will learn by coding simple Python data exploration functions. The final goal is to convert these functions into a library and use them in other projects.
 
 ## File Descriptions <a name="files"></a>
 
