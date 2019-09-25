@@ -17,7 +17,7 @@ In this project, I wanted to explore different ways to read data from various so
 
 ## File Descriptions <a name="files"></a>
 
-Describe.py - Python file to begin exploration of data.
+Describe.py - Python file to begin exploration of data. Here we will create different functions to describe the data.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 No specific Licensing needed please feel free to use the code here as you would like! 
